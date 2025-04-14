@@ -1,5 +1,5 @@
+
 streamlit==1.31.1
-pillow==10.3.0
-opencv-python
+Pillow==10.3.0
 pdf2image
 streamlit-image-coordinates
